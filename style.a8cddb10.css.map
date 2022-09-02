@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,UACE,kBACF,CAEA,wBACE,mBACF,CAEA,MACE,eACF","file":"style.a8cddb10.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n.fieldset {\n  margin-bottom: 20px;\n}\n\n.label:not(:last-child) {\n  padding-bottom: 10px;\n}\n\n.good {\n  margin-top: 20px;\n}\n"]}
